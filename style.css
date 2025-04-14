@@ -1,0 +1,41 @@
+body{
+    background-color: gray;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: rgb(7, 71, 16);
+}
+span{
+    border: solid 2px black;
+    font-size: 50px;    
+}
+
+.formato1{
+    color: rgb(7, 159, 45);
+}
+#formato2{
+    color: blue;
+}
+div{
+    border: solid 2px black;
+    font-size: 40px;
+}
+#formato3{
+    background-color: rgb(4, 213, 105);
+}
+#formato4{
+    background-color: rgb(4, 213, 105);
+}
+#formato5{
+    background-color: rgb(4, 213, 105);
+}
+#formato6{
+    background-color: brown;
+    width: 500px;
+    height: 500px;
+    margin: 20px auto;
+    border-radius: 30px;
+    background-image: url(https://pa1.aminoapps.com/5975/9fb5adc5598acada4a697787cf883e7dc2b46cb6_hq.gif);
+    background-size: 100% 100%;
+}
